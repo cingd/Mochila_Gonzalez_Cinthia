@@ -1,0 +1,8 @@
+	¿Por qué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+	Los lenguajes de programación están diseñados para trabajar con las características y funcionalidades de un sistema operativo específico. Cada sistema operativo tiene su forma de gestionar la memoria y el hardware, por lo que un lenguaje de programación necesita adaptarse a esas diferencias para poder ejecutarse correctamente en ese sistema operativo.
+	¿Qué tipo de máquina virtual es VirtualBox?
+	VirtualBox es un tipo de máquina virtual conocida como hipervisor de tipo 2. Actúa como una capa intermedia entre el sistema operativo host y las máquinas virtuales que se ejecutan dentro de él. Permite la instalación y ejecución de diferentes sistemas operativos invitados en una máquina física.
+	Si una máquina virtual se rompe, ¿afecta a las demás máquinas virtuales?
+	En general, si una máquina virtual se rompe, no afectará a las demás máquinas virtuales en ejecución. Cada máquina virtual se ejecuta de forma aislada y se considera un entorno separado. A menos que el problema afecte al sistema operativo host o a los recursos compartidos, las demás máquinas virtuales deberían seguir funcionando normalmente.
+	Subir este archivo a la mochila del viajero.
+	Necesitaría más detalles sobre qué se refiere con "mochila del viajero" para poder ayudarte a subir el archivo correctamente. Por favor, proporciona más información sobre la plataforma o servicio específico que estás utilizando para que pueda darte instrucciones precisas.
